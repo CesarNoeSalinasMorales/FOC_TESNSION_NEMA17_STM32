@@ -33,4 +33,7 @@ siguiendo las conexiones eléctricas correspondientes al sistema.
 # Autoría
 
 Código fuente desarrollado como parte de un proyecto de tesis de Ingeniería en Control 
-y Automatización.
+y Automatización del IPN.
+SALINAS MORALES CESAR NOE
+CATAÑO ITURBIDE EDGAR ALFONSO
+LUISA MARLEN JUAREZ SANTES
